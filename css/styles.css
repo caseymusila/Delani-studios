@@ -121,3 +121,18 @@
     background-size: cover;
     background-position:center center;
     }
+.title{
+    padding: 6px;
+    }
+contact h2{
+    text-align: center;
+      
+    }
+      
+.contact h2 {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: 'Gabriela', serif;
+    }
