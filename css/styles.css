@@ -100,4 +100,9 @@
     flex-wrap: wrap;
     margin-right: 18%;
     margin-left: 18%;
-       }
+    }
+
+.col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
+    }
