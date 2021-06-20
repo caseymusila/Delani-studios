@@ -92,3 +92,12 @@
 .services2{
     padding-bottom: 37px;
     }   
+
+#images{
+    display: flex;
+    display: absolute;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: 18%;
+    margin-left: 18%;
+       }
