@@ -157,3 +157,14 @@ footer{
 footer p{
     margin-top:10px;
     }
+
+#product, #development, #design{
+    display:none;
+    font-family: 'Copse'serif;
+    font-size: 15px;
+    }
+      
+#product .title,#development .title,#design .title{
+    font-size: 22px;
+    font-weight: 600;
+     }
