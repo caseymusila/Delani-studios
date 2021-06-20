@@ -168,3 +168,18 @@ footer p{
     font-size: 22px;
     font-weight: 600;
      }
+#display1, #display2, #display3, #display4, #display5, #display6, #display7, #display8{
+    color:brown(61, 238, 16, 0.856);
+    width: 100%;
+    Height: 100%;
+    background-color: rgb(21, 131, 131);
+    top: 20px;
+    left:34px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;;
+    display: none;
+    font-family: 'Courier New', Courier, monospace;
+    }
+       
