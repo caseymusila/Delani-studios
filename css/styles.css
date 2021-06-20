@@ -57,3 +57,15 @@
     padding-top: 40px;
     font-family: 'Courier New', Courier, monospace;
  }
+
+ .services{
+    background-image: url("/css/assets/backgrounds/s_image.jpg");
+     background-repeat:no-repeat;
+     background-size: cover;
+     background-position:center;
+     text-align:center;
+     color:white;
+     font-size:17px;
+     font-family: 'Copse' serif;
+    }
+    
