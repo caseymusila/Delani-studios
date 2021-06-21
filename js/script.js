@@ -48,11 +48,12 @@ $(document).ready(function(){
   }).mouseout(function(){
     $("#display5").hide();
   });
-  $("#port6").mouseover(function(){
+ $("#port6").mouseover(function(){
     $("#display6").show();
   }).mouseout(function(){
     $("#display6").hide();
   });
+
   $("#port7").mouseover(function(){
     $("#display7").show();
   }).mouseout(function(){
